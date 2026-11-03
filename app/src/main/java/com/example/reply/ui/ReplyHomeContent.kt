@@ -115,13 +115,16 @@ fun ReplyListAndDetailContent(
                 )
             }
         }
-        val activity = LocalContext.current as Activity
+        val context = LocalContext.current
         ReplyDetailsScreen(
             replyUiState = replyUiState,
             modifier = Modifier
                 .padding(top = dimensionResource(R.dimen.email_list_item_vertical_spacing))
                 .weight(1f),
-            onBackPressed = { activity.finish() }
+            onBackPressed = {
+                val activity = context as Activity
+                activity.finish()
+            }
         )
     }
 }
