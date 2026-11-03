@@ -32,6 +32,12 @@ Se filtraron mediante `annotation` con el paquete `com.example.reply.test`.
 Cada archivo termina con **OK**, el número correcto de casos y código de
 instrumentación -1. `resumen.json` conserva las fechas de inicio y dimensiones.
 
+Se repitieron además los dos casos expandidos desde Android Studio mediante
+la configuración compartida `Pruebas expandidas`: **2 aprobados, 0 fallos**.
+La captura `09-pruebas-android-studio.jpg` y el XML de resultados conservan
+esa ejecución. Las configuraciones utilizan la opción `EXTRA_OPTIONS` del
+formato generado por el propio IDE, verificada con esta ejecución real.
+
 También se ejecutaron satisfactoriamente los dos casos compactos sobre el
 teléfono Xiaomi 23100RN82L, Android 15, 720×1600 píxeles y 320 dpi. Su sistema
 bloqueó el inicio de ComponentActivity en segundo plano; se abrió la actividad

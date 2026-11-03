@@ -50,7 +50,8 @@ Las tres configuraciones compartidas de `.run/` filtran el paquete
 dispositivo del tamaño correspondiente para cada configuración.
 
 Los registros originales están en [`evidencias/resultados`](evidencias/resultados).
-Las capturas PNG proceden del teléfono, emulador e IDE, sin imágenes del tutorial.
+Las capturas PNG proceden del teléfono y emulador; las capturas JPG muestran
+Android Studio y GitHub. Se conservan sin alterar, sin imágenes del tutorial.
 Consultar la matriz de resultados y limitaciones en [`docs/VALIDACION.md`](docs/VALIDACION.md).
 
 ## Documentación

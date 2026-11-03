@@ -36,7 +36,6 @@ proguard-project.txt
 .idea
 .codex-local/
 .idea/
-.run/
 
 # Informe académico y archivos de entrega con datos personales.
 entregables/
