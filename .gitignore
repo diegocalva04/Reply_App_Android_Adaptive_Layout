@@ -38,3 +38,6 @@ proguard-project.txt
 .idea/
 .run/
 
+# Informe académico y archivos de entrega con datos personales.
+entregables/
+

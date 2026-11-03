@@ -1,0 +1,5 @@
+PASS: Ali selected in portrait, navigation back visible
+PASS: Ali retained in landscape list and detail
+PASS: Ali retained after return to portrait
+PASS: medium Back returns to list
+PASS: expanded Back closes activity

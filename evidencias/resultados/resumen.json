@@ -1,0 +1,29 @@
+[
+  {
+    "grupo": "compactas",
+    "anotacion": "com.example.reply.test.TestCompactWidth",
+    "pantalla_px": "720x1600",
+    "densidad_dpi": 320,
+    "inicio": "2026-11-03T09:35:41.372960-05:00",
+    "pruebas": 2,
+    "fallos": 0
+  },
+  {
+    "grupo": "medianas",
+    "anotacion": "com.example.reply.test.TestMediumWidth",
+    "pantalla_px": "1400x2000",
+    "densidad_dpi": 320,
+    "inicio": "2026-11-03T09:36:11.281752-05:00",
+    "pruebas": 1,
+    "fallos": 0
+  },
+  {
+    "grupo": "expandidas",
+    "anotacion": "com.example.reply.test.TestExpandedWidth",
+    "pantalla_px": "2560x1600",
+    "densidad_dpi": 320,
+    "inicio": "2026-11-03T09:36:23.291527-05:00",
+    "pruebas": 2,
+    "fallos": 0
+  }
+]
